@@ -41,7 +41,7 @@
 | --- | --- | --- | --- | --- | --- |
 | AdaptiveRecyclerView | RecyclerView with automatic data handling | https://github.com/fartem/adaptive-recycler-view |
 | ProcessPhoenix | Library for restarting application process | https://github.com/JakeWharton/ProcessPhoenix |
-| ORMLite | Database | https://ormlite.com |
+| ORMLite | SQL Database | https://ormlite.com |
 | MapDB | NoSQL Database | http://www.mapdb.org |
 | Hawk | NoSQL Database | https://github.com/orhanobut/hawk |
 | Retrofit | HTTP client | https://square.github.io/retrofit |
