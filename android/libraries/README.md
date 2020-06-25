@@ -1,4 +1,4 @@
-# Categories
+## Categories
 
 * [Java DI](./java/di.md)
 * [Kotlin DI](./kotlin/di.md)

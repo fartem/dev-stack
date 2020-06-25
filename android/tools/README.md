@@ -1,4 +1,4 @@
-# Categories
+## Categories
 
 * [Java tools](./java/java_tools.md)
 * [Kotlin tools](./kotlin/kotlin_tools.md)
