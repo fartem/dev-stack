@@ -1,4 +1,4 @@
-# Kotlin libraries
+# DI
 
 | Library | Description | Link | Comments |
 | --- | --- | --- | --- |

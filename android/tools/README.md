@@ -1,6 +1,5 @@
-# Common tools
+# Categories
 
-| Tool | Description | Link | Android Studio Plugin | Gradle Plugin | Comments |
-| --- | --- | --- | --- | --- | --- |
-| CPD | Copy-paste detector | https://pmd.github.io/latest/pmd_userdocs_cpd.html |
-| JaCoCo | Code coverage | https://www.eclemma.org/jacoco |
+* [Java tools](./java/java_tools.md)
+* [Kotlin tools](./kotlin/kotlin_tools.md)
+* [All tools](./all_tools.md)
