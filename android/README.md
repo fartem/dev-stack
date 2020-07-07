@@ -1,5 +1,7 @@
 # Android Dev Stack
 
+All libraries and tools used in Android projects.
+
 ## Libraries
 
 * [Java DI](./libraries/java/di.md)
