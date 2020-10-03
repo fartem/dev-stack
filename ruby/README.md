@@ -10,4 +10,3 @@ All libraries and tools used in Ruby projects.
 ## Tools
 
 * [Tools](./tools/tools.md)
-

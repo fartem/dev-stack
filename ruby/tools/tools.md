@@ -6,4 +6,3 @@
 | RuboCop | Static code analyzer | https://github.com/rubocop-hq/rubocop | [ruby-rubocop](https://marketplace.visualstudio.com/items?itemName=misogi.ruby-rubocop) |
 | codecov | Hosted code coverage | https://rubygems.org/gems/codecov |
 | simplecov | Code coverage | https://rubygems.org/gems/simplecov |
-

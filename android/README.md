@@ -18,4 +18,3 @@ All libraries and tools used in Android projects.
 * [Java tools](./tools/java/java_tools.md)
 * [Kotlin tools](./tools/kotlin/kotlin_tools.md)
 * [All tools](./tools/all_tools.md)
-
