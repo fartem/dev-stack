@@ -2,4 +2,5 @@
 
 | Plugins | Description | Link | Comments |
 | --- | --- | --- | --- |
-| test | Test library | https://pub.dev/packages/test |
+| test | A Flutter plugin for tests | https://pub.dev/packages/test |
+| mockito | A Flutter plugin for mocking objects | https://pub.dev/packages/mockito |
