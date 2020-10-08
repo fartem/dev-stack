@@ -4,3 +4,4 @@
 | --- | --- | --- | --- |
 | Analyzer | Static code Analyzer | https://pub.dev/packages/analyzer |
 | build_runner | Build tool | https://dart.dev/tools/build_runner |
+| dartfmt | Code formatter | https://dart.dev/tools/dartfmt |
