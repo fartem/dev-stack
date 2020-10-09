@@ -2,10 +2,10 @@
 
 All libraries and tools used in Ruby projects.
 
-## Libraries
+## Gems
 
-* [Languages](./libraries/languages.md)
-* [Tests](./libraries/tests.md)
+* [Languages](./gems/languages.md)
+* [Tests](./gems/tests.md)
 
 ## Tools
 
