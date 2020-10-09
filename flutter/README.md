@@ -4,13 +4,13 @@ All libraries and tools used in Flutter projects.
 
 ## Libraries
 
-* [Architecture](./libraries/architecture.md)
-* [Databases](./libraries/databases.md)
-* [Images](./libraries/images.md)
-* [Support](./libraries/support.md)
-* [Web](./libraries/web.md)
-* [UI](./libraries/ui.md)
-* [Tests](./libraries/tests.md)
+* [Architecture](./plugins/architecture.md)
+* [Databases](./plugins/databases.md)
+* [Images](./plugins/images.md)
+* [Support](./plugins/support.md)
+* [Web](./plugins/web.md)
+* [UI](./plugins/ui.md)
+* [Tests](./plugins/tests.md)
 
 ## Tools
 
