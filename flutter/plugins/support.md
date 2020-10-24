@@ -8,3 +8,4 @@
 | permission_handler | A Flutter plugin for working with OS permissions | https://pub.dev/packages/permission_handler |
 | flutter_cache_manager | A Flutter plugin for manage caches | https://pub.dev/packages/flutter_cache_manager |
 | clipboard | A Flutter plugin for working with device clipboard | https://pub.dev/packages/clipboard |
+| intl | A Flutter plugin for working with internalization | https://pub.dev/packages/intl |
