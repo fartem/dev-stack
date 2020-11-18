@@ -10,6 +10,7 @@ All libraries and tools used in Flutter projects.
 * [Support](./plugins/support.md)
 * [Web](./plugins/web.md)
 * [UI](./plugins/ui.md)
+* [Quality](./plugins/quality.md)
 * [Tests](./plugins/tests.md)
 
 ## Tools
