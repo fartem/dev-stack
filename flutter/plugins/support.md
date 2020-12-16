@@ -11,3 +11,4 @@
 | clipboard | A Flutter plugin for working with device clipboard | https://pub.dev/packages/clipboard |
 | intl | A Flutter plugin for working with internalization | https://pub.dev/packages/intl |
 | time_machine | A Flutter plugin for working with date and time | https://pub.dev/packages/time_machine |
+| connectivity | A Flutter plugin for working with Internet connection status | https://pub.dev/packages/connectivity |
