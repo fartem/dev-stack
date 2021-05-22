@@ -5,6 +5,7 @@ All libraries and tools used in Flutter projects.
 ## Libraries
 
 * [Architecture](./plugins/architecture.md)
+* [DI](./plugins/di.md)
 * [System](./plugins/system.md)
 * [Databases](./plugins/databases.md)
 * [Images](./plugins/images.md)

@@ -2,5 +2,6 @@
 
 | Plugin | Description | Link | Comments |
 | --- | --- | --- | --- |
-| provider | A Flutter plugin for Wrapper around InheritedWidget | https://pub.dev/packages/provider |
-| get_it | A Flutter plugin for Service Locator | https://pub.dev/packages/get_it |
+| provider | Provider plugin | https://pub.dev/packages/provider |
+| mobx | MobX realization for Flutter | https://pub.dev/packages/mobx |
+| stacked | Stacked architecture plugin | https://pub.dev/packages/stacked |

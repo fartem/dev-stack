@@ -2,4 +2,4 @@
 
 | Plugins | Description | Link | Comments |
 | --- | --- | --- | --- |
-| SQFLite | Flutter plugin for SQLite | https://pub.dev/packages/sqflite |
+| SQFLite | A Flutter plugin for working with native realizations of SQLite databases | https://pub.dev/packages/sqflite |
