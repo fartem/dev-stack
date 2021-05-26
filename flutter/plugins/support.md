@@ -12,3 +12,5 @@
 | intl | A Flutter plugin for working with internalization | https://pub.dev/packages/intl |
 | time_machine | A Flutter plugin for working with date and time | https://pub.dev/packages/time_machine |
 | connectivity | A Flutter plugin for working with Internet connection status | https://pub.dev/packages/connectivity |
+| json_annotation | A Flutter plugin for working with JSON structures | https://pub.dev/packages/json_annotation |
+| json_serializable | A Flutter plugin for generating JSON structures | https://pub.dev/packages/json_serializable |
