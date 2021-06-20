@@ -15,6 +15,7 @@ All libraries and tools used in Flutter projects.
 * [Quality](./plugins/quality.md)
 * [Fireabse](./plugins/firebase.md)
 * [Tests](./plugins/tests.md)
+* [Geolocation](./plugins/geolocation.md)
 
 ## Tools
 
