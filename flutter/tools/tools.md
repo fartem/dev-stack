@@ -2,6 +2,5 @@
 
 | Plugins | Description | Link | Comments |
 | --- | --- | --- | --- |
-| Analyzer | Static code Analyzer | https://pub.dev/packages/analyzer |
-| build_runner | Build tool | https://dart.dev/tools/build_runner |
-| dartfmt | Code formatter | https://dart.dev/tools/dartfmt |
+| Analyzer | This package provides a library that performs static analysis of Dart code | https://pub.dev/packages/analyzer |
+| build_runner | A build system for Dart code generation and modular compilation | https://dart.dev/tools/build_runner |
