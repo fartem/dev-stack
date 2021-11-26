@@ -1,6 +1,6 @@
 # NodeJS Dev Stack
 
-All libraries and tools used in NodeJS projects.
+All libraries and tools that are using in NodeJS projects.
 
 ## Libraries
 

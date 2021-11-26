@@ -1,5 +1,5 @@
 # Mail
 
-| Tool | Description | Link | VS Code Plugin | Comments |
-| --- | --- | --- | --- | --- | --- |
+| Tool | Description | Link |
+| --- | --- | --- |
 | Nodemailer | Email sending | https://nodemailer.com |

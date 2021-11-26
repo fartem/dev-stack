@@ -1,7 +1,7 @@
 # Firebase
 
-| Plugins | Description | Link | Comments |
-| --- | --- | --- | --- |
+| Plugins | Description | Link |
+| --- | --- | --- |
 | firebase_core | Flutter plugin for Firebase Core, enabling connecting to multiple Firebase apps | https://pub.dev/packages/firebase_core |
 | firebase_crashlytics | Flutter plugin for Firebase Crashlytics. It reports uncaught errors to the Firebase console | https://pub.dev/packages/firebase_crashlytics |
 | firebase_remote_config | Flutter plugin for Firebase Remote Config. Update your application look and feel and behaviour without re-releasing | https://pub.dev/packages/firebase_remote_config |

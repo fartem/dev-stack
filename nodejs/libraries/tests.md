@@ -1,6 +1,6 @@
 # Tests
 
-| Tool | Description | Link | VS Code Plugin | Comments |
-| --- | --- | --- | --- | --- | --- |
+| Tool | Description | Link |
+| --- | --- | --- |
 | Chai | BDD / TDD assertion library | https://www.chaijs.com |
 | Mocha | Test framework | https://mochajs.org |

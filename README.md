@@ -2,7 +2,7 @@
 
 ## About
 
-All libraries and tools using in projects.
+All libraries and tools that are using in projects.
 
 ## Platforms
 

@@ -1,6 +1,6 @@
 # Flutter Dev Stack
 
-All libraries and tools used in Flutter projects.
+All libraries and tools that are using in Flutter projects.
 
 ## Libraries
 

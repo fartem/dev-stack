@@ -1,5 +1,5 @@
 # Charts
 
-| Library | Description | Link | Comments |
-| --- | --- | --- | --- |
+| Library | Description | Link |
+| --- | --- | --- |
 | MPAndroidChart | Charts | https://github.com/PhilJay/MPAndroidChart |

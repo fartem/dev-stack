@@ -1,5 +1,5 @@
 # DI
 
-| Library | Description | Link | Comments |
-| --- | --- | --- | --- |
+| Library | Description | Link |
+| --- | --- | --- |
 | Kodein-DI | Dependency Injection | https://kodein.org/Kodein-DI |

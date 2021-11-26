@@ -1,7 +1,7 @@
 # Support
 
-| Plugins | Description | Link | Comments |
-| --- | --- | --- | --- |
+| Plugins | Description | Link |
+| --- | --- | --- |
 | shared_preferences | Flutter plugin for reading and writing simple key-value pairs. Wraps NSUserDefaults on iOS and SharedPreferences on Android. | https://pub.dev/packages/shared_preferences |
 | path_provider | Flutter plugin for getting commonly used locations on host platform file systems, such as the temp and app data directories | https://pub.dev/packages/path_provider |
 | app_settings | A Flutter plugin for opening iOS and Android phone settings from an app | https://pub.dev/packages/app_settings |

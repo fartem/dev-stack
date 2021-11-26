@@ -1,6 +1,6 @@
 # Ruby Dev Stack
 
-All libraries and tools used in Ruby projects.
+All libraries and tools that are using in Ruby projects.
 
 ## Gems
 

@@ -1,6 +1,6 @@
 # Android Dev Stack
 
-All libraries and tools used in Android projects.
+All libraries and tools that are using in Android projects.
 
 ## Libraries
 
